@@ -67,7 +67,7 @@ header .logo {
     width: 1100px;
     height: 757px;
     margin: 0 auto 180px auto;
-    background: url(images/cover.jpg) no-repeat center center/cover;
+    background: url(/images/cover.jpg) no-repeat center center/cover;
     overflow: hidden;
     display: flex;
     flex-direction: column;
@@ -271,15 +271,15 @@ header .logo {
 }
 
 .lots__item:nth-child(1) .card {
-    background: url(images/card-lot-01.jpg) no-repeat center center/cover
+    background: url(/images/card-lot-01.jpg) no-repeat center center/cover
 }
 
 .lots__item:nth-child(2) .card {
-    background: url(images/card-lot-02.jpg) no-repeat center center/cover
+    background: url(/images/card-lot-02.jpg) no-repeat center center/cover
 }
 
 .lots__item:nth-child(3) .card {
-    background: url(images/card-lot-03.jpg) no-repeat center center/cover
+    background: url(/images/card-lot-03.jpg) no-repeat center center/cover
 }
 
 .lots__more-link {
